@@ -1,0 +1,11 @@
+div.image-container {
+	padding: 15%;
+}
+
+img.page-link {
+	border-radius: 6px;
+}
+
+div.about-me {
+	display: none;
+}
