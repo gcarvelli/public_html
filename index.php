@@ -10,7 +10,7 @@
   </div>
 
   <div class="row about-me">
-    <div class="col-xs-12">
+    <div class="col-xs-10 col-xs-offset-1">
       <p>This is the about me text!</p>
     </div>
   </div>
