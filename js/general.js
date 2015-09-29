@@ -11,7 +11,7 @@ $(document).ready(function() {
     // Hover zoom
     $('.image-container img').hover(function(e) {
         $(this).parent().stop().animate({
-            'padding': '10%'
+            'padding': '12%'
         }, 600, 'easeOutQuart');
     });
 
