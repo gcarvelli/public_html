@@ -12,7 +12,7 @@ $(document).ready(function() {
     $('.image-container img').hover(function(e) {
         $(this).parent().stop().animate({
             'padding': '12%'
-        }, 600, 'easeOutQuart');
+        }, 700, 'easeOutQuart');
     });
 
     $('.image-container img').mouseleave(function(e) {
