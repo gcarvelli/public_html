@@ -18,6 +18,6 @@ $(document).ready(function() {
     $('.image-container img').mouseleave(function(e) {
         $(this).parent().stop().animate({
             'padding': '15%'
-        }, 300, 'easeOutQuint');
+        }, 400, 'easeOutQuint');
     })
 });
