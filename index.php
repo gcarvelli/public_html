@@ -44,7 +44,7 @@
 </body>
 <div id="footer">
   <div class="container">
-    <p class="text-muted">Source for this website is available on
+    <p class="text-muted">Like Bootstrap? Source for this website is available on
       <a href="http://github.com/gcarvelli/public_html">Github</a>.
     </p>
   </div>
