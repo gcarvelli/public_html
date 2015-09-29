@@ -1,9 +1,23 @@
 
 $(document).ready(function() {
 
-	$('.about-button').on('click', function(e) {
+    // About Me toggle
+    $('.about-button').on('click', function(e) {
         e.preventDefault();
 
         $('.about-me').stop().slideToggle({'queue': false});
     });
+
+    // Hover zoom
+    $('.image-container img').hover(function(e) {
+        $(this).parent().stop().animate({
+            'padding': '10%'
+        }, 600, 'easeOutQuart');
+    });
+
+    $('.image-container img').mouseleave(function(e) {
+        $(this).parent().stop().animate({
+            'padding': '15%'
+        }, 300, 'easeOutQuint');
+    })
 });
