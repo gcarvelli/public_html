@@ -17,7 +17,7 @@
     </div>
     <div class="row">
       <div class="col-xs-4">
-        <a href="https://www.linkedin.com/in/giovannircarvelli">
+        <a href="https://www.linkedin.com/in/gcarvelli">
           <div class="image-container">
             <img src="img/linkedin.png" width="100%" class="page-link" />
           </div>
@@ -28,7 +28,7 @@
           <div class="image-container">
             <img src="img/resume.png" width="100%" class="page-link" />
           </div>
-          </a>
+        </a>
       </div>
       <div class="col-xs-4">
         <a href="http://github.com/gcarvelli">
